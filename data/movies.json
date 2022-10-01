@@ -1,0 +1,238 @@
+  {
+  "movies": [
+    {
+      "movieName": "JAMES",
+      "hero": "PUNITH RAJKUMARA",
+      "heroine": "PRIYA ANAND",
+      "rating": "10",
+      "poster": "https://cdn.celpox.com/bby_uploads/media/d21425d1d3dee7bb526752586ed0631e.jpg",
+      "comments": [
+        "Mind blowing ....!!!! Briliant, ExtraOrdinary..!!!"
+      ],
+      "id": 1,
+      "like": false
+    },
+    {
+      "movieName": "RRR",
+      "hero": "NTR",
+      "heroine": "ALIA BHATT",
+      "rating": "9",
+      "poster": "https://img.starbiz.com/resize/750x-/2021/01/26/rrr-first-look-8695.jpg",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "movieName": "777",
+      "hero": "RAKSHITH SHETTY",
+      "heroine": "BOW BOW",
+      "rating": "9",
+      "poster": "https://pbs.twimg.com/media/E3NRfpEVcAQcOVW.jpg",
+      "comments": [
+        "natural n briliant movie"
+      ],
+      "id": 3
+    },
+    {
+      "movieName": "ARYA 2",
+      "hero": "ALLU ARJUN",
+      "heroine": "KAJAL AGARWAL",
+      "rating": "9",
+      "poster": "http://3.bp.blogspot.com/_e8RR9MCalTY/TI4FMNYGYPI/AAAAAAAAAEc/eKsLtaynYdQ/s1600/arya-2-movie-wallpaper05[1].jpg",
+      "comments": [
+        "V.good",
+        " nice movie"
+      ],
+      "id": 4
+    },
+    {
+      "movieName": "99",
+      "hero": "GANESH",
+      "heroine": "BHAVANA",
+      "rating": "8.0",
+      "poster": "https://movierater.b-cdn.net/wp-content/uploads/2019/04/99-Full-Movie-Download-HD.jpg",
+      "comments": [
+        "V.good and nice..!!"
+      ],
+      "id": 5
+    },
+    {
+      "movieName": "PUSHPA",
+      "hero": "ALLU ARJUN",
+      "heroine": "RASHMIKA",
+      "rating": "9.5",
+      "poster": "https://pro.sgp1.digitaloceanspaces.com/2021/05/Allu-Arjun-Pushpa-1.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 6,
+      "like": false
+    },
+    {
+      "movieName": "Thallumaala",
+      "hero": "Tovino Thomas",
+      "heroine": "kalyani priyadarshan",
+      "rating": "8.5",
+      "poster": "https://tse4.mm.bing.net/th?id=OIF.WrkJB0ItIyxH%2bSBW77W%2bVA&pid=Api&P=0",
+      "comments": [
+        "good movie"
+      ],
+      "id": 7,
+      "like": false
+    },
+    {
+      "movieName": "KGF",
+      "hero": "YASH",
+      "heroine": "Srinidhi Shetty",
+      "rating": "9.5",
+      "poster": "https://telugupremiere.com/wp-content/uploads/2018/12/KGF.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 8,
+      "like": false
+    },
+    {
+      "movieName": "POKIRI",
+      "hero": "Mahesh Babu",
+      "heroine": "Ileana D'Cruz",
+      "rating": "9.5",
+      "poster": "https://wallpapercave.com/wp/wp7517292.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 9,
+      "like": false
+    },
+    {
+      "movieName": "3 Idiots",
+      "hero": "Amir Khan",
+      "heroine": "Kareena Kapoor",
+      "rating": "9.7",
+      "poster": "http://youberelentless.com/wp-content/uploads/2017/05/3i-poster-3.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 10,
+      "like": true
+    },
+    {
+      "movieName": "3",
+      "hero": "Dhanush",
+      "heroine": "Shruthi Hassan",
+      "rating": "9.0",
+      "poster": "https://tse3.mm.bing.net/th?id=OIP._zZ5Vg_k0Cv_yYRT8jiOKAHaEK&pid=Api&P=0",
+      "comments": [
+        "good movie"
+      ],
+      "id": 11,
+      "like": false
+    },
+    {
+      "movieName": "Wrath Of Man",
+      "hero": "Jason Statham",
+      "heroine": "Ana De Armas",
+      "rating": "9.5",
+      "poster": "https://www.designerwomen.co.uk/wp-content/uploads/2021/03/wrath-of-man-1-780x450.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 12,
+      "like": false
+    },
+    {
+      "movieName": "The Gray Man",
+      "hero": "Ryan Gosling",
+      "heroine": "Ana De Armas",
+      "rating": "9.5",
+      "poster": "https://tse3.mm.bing.net/th?id=OIP.J9MdTSnxABD0S2KEHCi8-wHaLH&pid=Api&P=0",
+      "comments": [
+        "good movie"
+      ],
+      "id": 13,
+      "like": false
+    },
+    {
+      "movieName": "Vikrant Rona",
+      "hero": "Sudeep",
+      "heroine": "Neetha Ashok",
+      "rating": "9.7",
+      "poster": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_924582133.jpeg",
+      "comments": [
+        "Vgood movie"
+      ],
+      "id": 14,
+      "like": false
+    },
+    {
+      "movieName": "Sita Ramam",
+      "hero": "Dulquer Salmaan",
+      "heroine": "Mrunal Thakur",
+      "rating": "9.9",
+      "poster": "https://images.news18.com/telugu/uploads/2022/09/Sita-Ramam-News181.jpg",
+      "comments": [
+        "Best movie"
+      ],
+      "id": 15,
+      "like": false
+    },
+    {
+      "movieName": "Beast",
+      "hero": "Vijay",
+      "heroine": "Pooja Hegde",
+      "rating": "7.5",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxE7kKPTkmDimkvIWstloy8vPkIeHTB_nTbbKcZfTS6gOVSx5pmVO79-itKp-zthIl_oM&usqp=CAU",
+      "comments": [
+        "good movie"
+      ],
+      "id": 16,
+      "like": false
+    },
+    {
+      "movieName": "Kurup",
+      "hero": "Dulquer Salmaan",
+      "heroine": "Sobhita Dhulipala",
+      "rating": "9.1",
+      "poster": "https://www.mirchi9.com/wp-content/uploads/2021/11/Kurup-Movie-Review.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 17,
+      "like": false
+    },
+    {
+      "movieName": "The Batman",
+      "hero": "Robert Pattinson",
+      "heroine": "Zoë Kravitz",
+      "rating": "8.9",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/81DGyn3r62L.jpg",
+      "comments": [
+        "good movie"
+      ],
+      "id": 18,
+      "like": false
+    },
+    {
+      "movieName": "Vikram",
+      "hero": "Kamal Haasan",
+      "heroine": "Shivani Narayanan",
+      "rating": "9.9",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6237/1296237-h-5662015305e4",
+      "comments": [
+        "good movie"
+      ],
+      "id": 19,
+      "like": false
+    },
+    {
+      "movieName": "Kabza",
+      "hero": "Upendra Rao",
+      "heroine": "Shriya Saran",
+      "rating": "9.8",
+      "poster": "https://static.toiimg.com/photo/msid-86293975/86293975.jpg?48564",
+      "comments": [
+        "NEXT LEVEL KFI"
+      ],
+      "id": 20
+    }
+  ]
+}

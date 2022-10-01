@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'BIZ UDPMincho', serif;
+    font-family: 'Macondo', cursive;
+    text-decoration: none;
+   
+    color: white;
+}
+
+.App{
+    
+    max-width: 100vh;
+    height: auto;
+    margin: auto;
+    background-color:#363d42;
+    
+    
+
+   
+}
+
+nav{
+    
+    display: flex;
+    align-items: center;
+    max-width: 100vh;
+    height: 90px;
+    border-bottom: 2px solid blue ;
+    background-color: black;
+    font-size: 35px;
+    position: sticky;
+    top: 0;
+    
+    
+}
+nav h1{
+    margin-left: 30px;
+}
+
+nav h1:hover{
+    
+    letter-spacing: 4px;
+    font-size: 45px;
+    border-radius: 8px;
+    
+    background-color: darkmagenta;
+    transition: .5s;
+    margin-left: 20px;
+}
+
+.title{
+    font-size: 30px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: .2rem;
+    
+}
+.title h1{
+    animation: animate 6s linear infinite;
+}
+
+@keyframes animate{
+    0%{
+        color: #ffa739;
+        box-shadow: none;
+    }
+    100%{
+        color: rgb(84, 30, 232);
+    }
+}
+
+/* .test{
+    position: absolute;
+    width: 40rem;
+    height: 20rem;
+    border: 2px solid orange;
+    background-color: transparent;
+    
+    top: 8rem;
+} */
+
+
+
+
+
+
+.movie-list{
+    margin: 30px 10px ;
+    padding: 30px;
+    width: 40rem;
+    border: 2px transparent gold;
+    margin-left: 290px;
+    box-shadow: 10px 10px 70px 0 yellow;
+   
+    
+    
+    
+
+}
+
+.movie-list:hover{
+    box-shadow: 10px 10px 0px rgba(229, 10, 10, 0.758);
+    transition: 1.10s;
+    background-color:gold;
+    transform: translate(3px,10px);
+    width: 40rem;
+    border-radius: 10px;
+    
+
+}
+
+.movie-list h2{
+    color:red;
+    margin: 10px 0px;
+    font-size: 2rem;
+    margin-top: 2rem;
+
+    
+}
+
+.movie-list div{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.movie-list h3{
+    margin: 10px 0px;
+    color: azure;
+    font-size: 1rem;
+    margin-top: 2rem;
+ 
+    
+    
+}
+
+.MD{
+    margin-left: 18rem;
+}
+
+
+.MD label{
+    margin-left: 200px;
+}
+.MD textarea{
+    color: black;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+
+
+
+
+
+
+.MD button{
+    width: 50px;
+    height: 40px;
+    background-color:cornflowerblue;
+    color: black;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.cont{
+    margin-top: 20px;
+}
+
+.MD{
+    width: 650px;
+    padding: 50px;
+    
+}
+.MD h2{
+    margin-left: 3.5rem;
+    font-size: 2.3rem;
+    margin-top: .4rem; 
+    /* width: 25rem; */
+}
+.MD h3{
+    margin-left: 3.5rem;
+    
+    font-size: 1.3rem;
+    margin-top: .4rem;
+    
+}
+
+
+.MD img{
+    border-radius: 20px;
+    margin-left: 6rem;
+    /* margin-top: -6px; */
+    box-shadow: 15px 15px 0px rgba(229, 10, 10, 0.758);
+    
+}
+.MD {
+    box-shadow: 0px 0px 65px 15px rgba(180, 196, 8, 0.758);
+}
+
+.sec{
+    margin: 0;
+    display: flex;
+}
+.com{
+    font-size: 1.5rem;
+    margin-top: .4rem;
+   
+}
+.btn-a{
+    margin-left: 50px;
+}
+.at img{
+    border-radius: 50%;
+    box-shadow: 0px 0px  10px 10px rgba(229, 10, 10, 0.758);
+    
+}
